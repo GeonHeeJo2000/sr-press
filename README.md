@@ -41,3 +41,9 @@ git clone https://github.com/ML-KULeuven/socceraction.git
 - [databases](https://github.com/leemingo/sr-press/tree/geonhee/express/databases): Data access and SPADL conversion (implemented _fix_pressure in base.py).
 - [features](https://github.com/leemingo/sr-press/blob/geonhee/express/features.py), [labels](https://github.com/leemingo/sr-press/blob/geonhee/express/labels.py): Define features and labels
 - [component](https://github.com/leemingo/sr-press/tree/geonhee/express/components): Train the exPress model
+
+### Research
+
+please consider citing the following papers:
+
+- Minho Lee, Geonhee Jo, Miru Hong, Pascal Bauer, and Sang-Ki Ko. **Contextual Valuation of Individual Players Within Pressing Situations in Football.** In 2025 MIT Sloan Sports Analytics Conference. <br/>[ [paper](https://www.sloansportsconference.com/research-papers/contextual-valuation-of-individual-players-within-pressing-situations-in-football) | [github](https://github.com/leemingo/sr-press) ]
